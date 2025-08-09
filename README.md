@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Maneesh D
-- 👀 I’m interested in control M, python and java and bigdata hadoop
-- 🌱 I’m currently learning python and control M 
+- 👋 Hi, I’m @Maneesh Damodaram
+- 👀 I’m a Gcp Data Engineer
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me maneeshd376@gmail.com, 9381058719
 
